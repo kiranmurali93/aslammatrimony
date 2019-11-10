@@ -308,7 +308,8 @@ ul.nav_1 li.last{
 .banner_info h3{
    color:#fff;
    font-family: 'Oswald', sans-serif;
-   font-size:4em;
+   font-size:3.5em;
+   font-weight: bold;
    margin-bottom:30px;
 }
 /* Shutter Out Horizontal */
