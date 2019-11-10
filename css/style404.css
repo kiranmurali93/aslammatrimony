@@ -26,6 +26,7 @@ body {
   max-width: 410px;
   width: 100%;
   text-align: center;
+  
 }
 
 .notfound .notfound-404 {
@@ -36,10 +37,11 @@ body {
 
 .notfound .notfound-404 h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 230px;
+  font-size: 60px;
   margin: 0px;
   font-weight: 900;
   position: absolute;
+  white-space: nowrap;
   left: 50%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
