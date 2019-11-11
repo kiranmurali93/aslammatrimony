@@ -97,3 +97,13 @@ body {
     }
 }
 
+
+
+@media only screen and (max-width: 500px) {
+  .notfound .notfound-404 {
+    height: 100px;
+  }
+  .notfound .notfound-404 h1 {
+    font-size: 20px;
+  }
+}

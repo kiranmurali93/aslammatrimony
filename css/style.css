@@ -2606,7 +2606,7 @@ a.order-btn {
    padding: 8px 14px;
 }
 }
-@media (max-width:930px){
+@media (max-width:1024px){
 .navbar-nav > li > a {
     padding: 6px 10px;
 }
